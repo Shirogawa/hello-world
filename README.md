@@ -1,3 +1,3 @@
 # hello-world
 nothing
-hi
+Hello world.
